@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-linear-gradient] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\a0f86f09c75c93b9d1cdc087417133ad\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\433d06b9eeefb50a137f88a8857a0d48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a15ec6960963427e0fc75d0dd493c4d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31f06c513ff174e64f44a1a1b96ba765\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e3fbcc8d2f8452db65cec256a9c5c85b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bb3368f8edd48d6a3d1dbe67cc66768d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e9831a2565207ebb044f8973922a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de4d67453a95f6dc0fd030fdbc4e240d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\365b70af8047abe71e79d681227fb66d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\20f8b2fa440d1659d822be300c3c4db7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\05a5539a5de699d34f1581b984d374d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\080ab77439874fac58cafb07156961f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f501faf2005e881508135b7589a9c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\da54fe5321616138ab6925fdfe872973\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bff8b8fd860465e7c9012f80eeb15b56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8e1281c20af8cf73c37e6f1e31e7a443\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b2ba0aedfaca6728a90f09b0ad51149\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c292a9ef638f6647c2abb5617528223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3105239ec69fd3ca75ac19a9fef6320a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b3929cc0e65b4090b9cc3a7e590220f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f3b54d21fe0a5d533be8e8a869a2bcaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02c9e27570ecd02792e86f1504dc31f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ce7867f51ddc0a4551e8744a5418a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ea7074b24e0e9736259b32981c0ae627\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\061116a2b7d35fd967844b5e88fd53d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\369ccd4eaf14d411a90ec0964baf1c45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e89bfaafdb15c4731bed03bb5b4bfd39\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3ff2338343c6e2cfe87fdd9264199c53\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\19e952363a5eca2b14a4a47f3f7a5fd0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\30f5c196a93e8b0077578c8bfacee6f5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5e42b4231a8ce82ec93bc8b7ca275b0d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\987fa171d76abbf73fd386d6b77e321c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\528d666320c75c4d9d927227945fbb1f\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\a0f86f09c75c93b9d1cdc087417133ad\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\a0f86f09c75c93b9d1cdc087417133ad\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8e1281c20af8cf73c37e6f1e31e7a443\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8e1281c20af8cf73c37e6f1e31e7a443\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\987fa171d76abbf73fd386d6b77e321c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\987fa171d76abbf73fd386d6b77e321c\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.hamrodocs_v2.MainActivity
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:screenOrientation
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:17:9-45
+	android:label
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-linear-gradient] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\a0f86f09c75c93b9d1cdc087417133ad\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\a0f86f09c75c93b9d1cdc087417133ad\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\433d06b9eeefb50a137f88a8857a0d48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\433d06b9eeefb50a137f88a8857a0d48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a15ec6960963427e0fc75d0dd493c4d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a15ec6960963427e0fc75d0dd493c4d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31f06c513ff174e64f44a1a1b96ba765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31f06c513ff174e64f44a1a1b96ba765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e3fbcc8d2f8452db65cec256a9c5c85b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e3fbcc8d2f8452db65cec256a9c5c85b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bb3368f8edd48d6a3d1dbe67cc66768d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bb3368f8edd48d6a3d1dbe67cc66768d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e9831a2565207ebb044f8973922a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf5e9831a2565207ebb044f8973922a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de4d67453a95f6dc0fd030fdbc4e240d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de4d67453a95f6dc0fd030fdbc4e240d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\365b70af8047abe71e79d681227fb66d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\365b70af8047abe71e79d681227fb66d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\20f8b2fa440d1659d822be300c3c4db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\20f8b2fa440d1659d822be300c3c4db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\05a5539a5de699d34f1581b984d374d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\05a5539a5de699d34f1581b984d374d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\080ab77439874fac58cafb07156961f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\080ab77439874fac58cafb07156961f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f501faf2005e881508135b7589a9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f501faf2005e881508135b7589a9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\da54fe5321616138ab6925fdfe872973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\da54fe5321616138ab6925fdfe872973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bff8b8fd860465e7c9012f80eeb15b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bff8b8fd860465e7c9012f80eeb15b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07a6d3d0aac69aece6a5ee06214b11b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8e1281c20af8cf73c37e6f1e31e7a443\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8e1281c20af8cf73c37e6f1e31e7a443\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b2ba0aedfaca6728a90f09b0ad51149\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b2ba0aedfaca6728a90f09b0ad51149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c292a9ef638f6647c2abb5617528223\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6c292a9ef638f6647c2abb5617528223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3105239ec69fd3ca75ac19a9fef6320a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3105239ec69fd3ca75ac19a9fef6320a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b3929cc0e65b4090b9cc3a7e590220f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b3929cc0e65b4090b9cc3a7e590220f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f3b54d21fe0a5d533be8e8a869a2bcaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f3b54d21fe0a5d533be8e8a869a2bcaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02c9e27570ecd02792e86f1504dc31f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02c9e27570ecd02792e86f1504dc31f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ce7867f51ddc0a4551e8744a5418a6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5ce7867f51ddc0a4551e8744a5418a6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ea7074b24e0e9736259b32981c0ae627\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ea7074b24e0e9736259b32981c0ae627\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\061116a2b7d35fd967844b5e88fd53d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\061116a2b7d35fd967844b5e88fd53d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\369ccd4eaf14d411a90ec0964baf1c45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\369ccd4eaf14d411a90ec0964baf1c45\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e89bfaafdb15c4731bed03bb5b4bfd39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\e89bfaafdb15c4731bed03bb5b4bfd39\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3ff2338343c6e2cfe87fdd9264199c53\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\3ff2338343c6e2cfe87fdd9264199c53\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\19e952363a5eca2b14a4a47f3f7a5fd0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\19e952363a5eca2b14a4a47f3f7a5fd0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\30f5c196a93e8b0077578c8bfacee6f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\30f5c196a93e8b0077578c8bfacee6f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5e42b4231a8ce82ec93bc8b7ca275b0d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5e42b4231a8ce82ec93bc8b7ca275b0d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\987fa171d76abbf73fd386d6b77e321c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\987fa171d76abbf73fd386d6b77e321c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\528d666320c75c4d9d927227945fbb1f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\default.LAPTOP-L777RA0L\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\528d666320c75c4d9d927227945fbb1f\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\default.LAPTOP-L777RA0L\Desktop\React\keivTech\HamroDocs_v2\android\app\src\debug\AndroidManifest.xml:5:22-75

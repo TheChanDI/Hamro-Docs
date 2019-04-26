@@ -1,0 +1,4 @@
+#Tue Apr 23 12:24:20 NPT 2019
+base.0=C\:\\Users\\default.LAPTOP-L777RA0L\\Desktop\\React\\keivTech\\HamroDocs_v2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
